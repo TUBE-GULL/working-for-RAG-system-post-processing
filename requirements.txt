@@ -1,0 +1,6 @@
+phoenix
+openai
+llama_index
+llama-index-core "arize-phoenix[evals,llama-index]"
+gcsfs 
+nest-asyncio "openinference-instrumentation-llama-index>=2.0.0
