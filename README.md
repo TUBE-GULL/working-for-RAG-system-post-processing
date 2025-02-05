@@ -1,4 +1,4 @@
-<h1 align="center">RAG-system-post-processing+NeMo Guardrails</h1>
+<h1 align="center">RAG-system-post-processing</h1>
 
 <h2 align="center">Used Libraries</h2>
 <div align="center">
